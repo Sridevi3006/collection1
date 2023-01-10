@@ -4,8 +4,8 @@ import java.util.ArrayList;
 
 public class UseEmployee {
 	public static void main(String[] args) {
-		Employee e1=new Employee("sridevi",6801317,"java developer",55000,'f',true);
-		Employee e2=new Employee("rahul",12345,"software developer",95000,'m',true);
+		Employee e1=new Employee("sridevis",6801317,"java developer",55000,'f',true);
+		Employee e2=new Employee("rahuldeepak",12345,"software developer",95000,'m',true);
 		Employee e3=new Employee("sowmiya",680131,"java developer",60000,'f',false);
 		Employee e4=new Employee("deepak",456789,"sql",300000,'m',false);
 		
